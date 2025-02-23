@@ -37,3 +37,20 @@ The dataset was sourced from Kaggle. The data originates from Zomato, a popular 
    - Identified top restaurants by votes and most preferred cuisines.
    - Compared online vs. offline restaurant ratings and order preferences.
 4. Data Visualization (Using Matplotlib & Seaborn)
+
+##Key Insights
+1. Type of restaurant most preferred by the customers?
+
+2. Finding the performance of different restaurant types based on votes from the customers?
+
+3. What is the average cost for two at restaurants in Bangalore?
+
+4. Between online and offline restaurants which receive the higher ratings?
+
+5. Comparing amount of orders for different restaurants through both online and offline mode.
+
+6. Finding the area wise restaurant density in Bangalore.
+
+7. Finding the top 10 most common cuisines among restaurants in Bangalore.
+
+8. Finding the top 10 restaurants in Bangalore.
