@@ -38,21 +38,35 @@ The dataset was sourced from Kaggle. The data originates from Zomato, a popular 
    - Compared online vs. offline restaurant ratings and order preferences.
 4. Data Visualization (Using Matplotlib & Seaborn)
 
-##Key Insights
+## Key Insights
 1. Type of restaurant most preferred by the customers?
 
     ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q1.png?raw=true)
 
 2. Finding the performance of different restaurant types based on votes from the customers?
 
-4. What is the average cost for two at restaurants in Bangalore?
+    ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q2.png?raw=true)
+ 
+3. What is the average cost for two at restaurants in Bangalore?
 
-5. Between online and offline restaurants which receive the higher ratings?
+    ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q3.png?raw=true)
 
-6. Comparing amount of orders for different restaurants through both online and offline mode.
+4. Between online and offline restaurants which receive the higher ratings?
 
-7. Finding the area wise restaurant density in Bangalore.
+    ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q4.png?raw=true)
 
-8. Finding the top 10 most common cuisines among restaurants in Bangalore.
+5. Comparing amount of orders for different restaurants through both online and offline mode.
 
-9. Finding the top 10 restaurants in Bangalore.
+    ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q5.png?raw=true)
+
+6. Finding the area wise restaurant density in Bangalore.
+
+    ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q6.png?raw=true)
+
+7. Finding the top 10 most common cuisines among restaurants in Bangalore.
+
+    ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q7.png?raw=true)
+
+8. Finding the top 10 restaurants in Bangalore.
+
+    ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q8.png?raw=true)
