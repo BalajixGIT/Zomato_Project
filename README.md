@@ -26,14 +26,14 @@ The dataset was sourced from Kaggle. The data originates from Zomato, a popular 
 
 ## Project Workflow
 1. Data Cleaning & Preprocessing (Using Pandas)
-       - Removed missing values & duplicates to ensure data integrity.
-       - Standardized column names and corrected data inconsistencies.
-       - Converted data types where necessary (e.g., votes from object to integer).
+   - Removed missing values & duplicates to ensure data integrity.
+   - Standardized column names and corrected data inconsistencies.
+   - Converted data types where necessary (e.g., votes from object to integer).
 2. Data Wrangling & Transformation (Using Pandas & NumPy)
-       - Filtered and grouped data based on restaurant types, ratings, votes, and cuisines.
-       - Created new calculated fields (e.g., average cost per rating).
+   - Filtered and grouped data based on restaurant types, ratings, votes, and cuisines.
+   - Created new calculated fields (e.g., average cost per rating).
 3. Exploratory Data Analysis (Using Pandas, Seaborn, and Matplotlib)
-       - Analyzed restaurant types, price distribution, and rating trends.
-       - Identified top restaurants by votes and most preferred cuisines.
-       - Compared online vs. offline restaurant ratings and order preferences.
+   - Analyzed restaurant types, price distribution, and rating trends.
+   - Identified top restaurants by votes and most preferred cuisines.
+   - Compared online vs. offline restaurant ratings and order preferences.
 4. Data Visualization (Using Matplotlib & Seaborn)
