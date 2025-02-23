@@ -41,7 +41,7 @@ The dataset was sourced from Kaggle. The data originates from Zomato, a popular 
 ##Key Insights
 1. Type of restaurant most preferred by the customers?
 
-    https://github.com/BalajixGIT/Zomato_Project/blob/652f6cea3f6139b48473a8bef7d281aaae17e722/Q1.png
+    https://github.com/BalajixGIT/Zomato_Project/blob/main/Q1.png
 
 2. Finding the performance of different restaurant types based on votes from the customers?
 
