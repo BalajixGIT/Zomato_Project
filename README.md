@@ -70,3 +70,6 @@ The dataset was sourced from Kaggle. The data originates from Zomato, a popular 
 8. Finding the top 10 restaurants in Bangalore.
 
     ![image alt](https://github.com/BalajixGIT/Zomato_Project/blob/main/Q8.png?raw=true)
+
+## Conclusion
+These findings can help restaurants, food aggregators, and policymakers make data-driven decisions on customer targeting, location expansion, pricing strategies, and service improvements.
