@@ -2,7 +2,7 @@
 This project analyzes restaurant data from Zomato to uncover insights into customer preferences, ratings, pricing, and restaurant performance in Bangalore. Using Python (Pandas, Matplotlib, Seaborn), the study answers key questions related to restaurant types, cost trends, online vs. offline ratings, and area-wise restaurant density.
 ## About Dataset
 The dataset was sourced from Kaggle. The data originates from Zomato, a popular platform for restaurant discovery and food delivery in India. It provides detailed information about over 12,000 restaurants in Bengaluru, including ratings, votes, cost, cuisines, restaurant types, and more. The dataset was scraped from Zomato's publicly available website to compile this rich repository of insights into Bengaluru's food industry.
-## Business Impact of Data Analysis on Zomato’s Bangalore Restaurant Market
+## Business Impact of Data Analysis
 1. Understanding Customer Preferences
     - Identifying most preferred restaurant types enables targeted marketing.
     - Analyzing votes & ratings helps restaurants improve services to match customer expectations.
@@ -18,3 +18,8 @@ The dataset was sourced from Kaggle. The data originates from Zomato, a popular 
 5. Popular Cuisine & Restaurant Trends 
     - Identifying top 10 common cuisines helps curate menus for better customer engagement.
     - Top-performing restaurants' analysis allows new entrants to adopt successful business models.
+###  How This Helps Zomato & Restaurant Partners
+- Better business decisions based on real customer preferences.
+- Optimized pricing & menu strategies for higher profitability.
+- Location-based expansion & marketing plans for better reach.
+- Improved customer satisfaction by focusing on top-rated restaurant factors.
